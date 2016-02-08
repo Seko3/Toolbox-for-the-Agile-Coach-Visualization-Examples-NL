@@ -1,6 +1,14 @@
+Sean
+
 Task Progress Bar
 
 Some tasks get stuck on the wall because they either describe a big chunk of work, or the amount of work turned out to be more than first anticipated. When that happens draw a progress bar (on the task Post-it) which is updated during the Daily Stand-up.
 
 If you use dotting (see example “Dotting”) as a habit you could add the policy: as soon as a task gets two or more dots, we add a progress bar and discuss what is needed to complete the task.
 
+
+Taak Voortgangsbalk
+
+Sommige taken blijven plakken op de muur omdat ze ofwel een grote brok werk bevatten, of de hoeveelheid werk blijkt meer te zijn dan eerst gedacht. Als dat gebeurt, teken een Voortgangsbalk (op de Post-it van de taak) die wordt bijgewerkt tijdens de Dagelijkse Standup.
+
+Als je gewoonlijk Stippen gebruikt (zie voorbeeld "Stippen") kun je ook de de regel toevoegen: zodra een taak twee of meer stippen krijgt zetten we er een Voortgangsbalk bij en bespreken wat er nodig is om de taak af te ronden.
