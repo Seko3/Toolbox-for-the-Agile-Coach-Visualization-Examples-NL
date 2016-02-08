@@ -1,3 +1,4 @@
+Sean
 
 Today’s Headlines
 
@@ -6,3 +7,13 @@ Many times teams start or end their Daily Stand-up with a general information sh
 To reduce the chance that you forget to share something important with your team, add your news headlines to the “Today’s Headline” whiteboard area as soon as you come to think of a topic.
 
 When the news or information has been shared, clear the area so that new headlines can be added for the next day.
+
+
+Headlines vandaag
+
+Vaak starten teams hun Dagelijkse Standup met het delen van algemene informatie.
+
+Om te voorkomen dat men vergeet iets belangrijks te delen met het team, plaats je het nieuws bij de "Headlines Vandaag"
+op het plakbord zodra het onderwerp je te binnen schiet.
+
+Wanneer het nieuws of de informatie is gedeeld, verwijder het weer zodat nieuwe headlines voor morgen kunnen worden toegevoegd.
