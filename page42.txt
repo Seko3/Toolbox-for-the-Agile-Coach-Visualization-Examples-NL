@@ -1,3 +1,5 @@
+Sean
+
 Improvement Lane
 
 To make your retrospective improvement actions a natural part of your planning and Daily Stand-ups, add an Improvement Lane to the board.
@@ -6,3 +8,11 @@ Some teams place the Improvement lane at the bottom and have the policy that if 
 
 Other teams place the lane on top, signaling that the improvement actions are the most important thing to finish first (right after urgent production problems). 
 
+
+Verbeterpad
+
+Om de verbeterplannen uit de Retrospective een natuurlijk onderdeel te maken van de planning en Dagelijkse Standup, voeg een Verbeterpad toe aan het bord.
+
+Sommige teams plaatsen het pad onderaan het bord, en hanteren de regel dat als je verhinderd wordt op je dagelijkse taak, je gat werken aan verbeteringen totdat de hindernis weg is, of iemand anders hulp nodig heeft.
+
+Andere teams plaatsen het pad bovenaan, om aan te geven dat verbeterplannen het belangrijkste zijn om als eerste af te ronden (direct na het oplossen van urgente productie problemen).
