@@ -1,3 +1,5 @@
+Sean
+
 After party
 
 When people derail in detailed discussions during the Daily Stand-up meeting, pause them and add the topic to “Immediately after”. The policy could be that whenever anyone makes a T-shaped hand signal, the discussion is moved to after the Daily Stand-up.
@@ -7,3 +9,14 @@ Once the Daily Stand-up is wrapped up, those that need to (and those that want t
 As each topic is resolved, cross it over. When all have been discussed, clean the area so that it’s ready for the next Daily Stand-up.
 
 For some teams this is a great approach to make the Daily Stand-up meetings shorter and more concrete.
+
+
+After party
+
+Wanneer mensen verzanden in gedetailleerde discussies tijdens de Dagelijkse Standup, onderbreek ze en plaats het onderwerp op "Onmiddelijk erna". Een regel kan zijn dat zodra iemand met zijn handen T-signaal maakt, de discussie wordt verplaatst naar een moment direct ná de Dagelijkse Standup.
+
+Direct nadat de Dagelijkse Standup is afgerond, blijven deze personen (en andere belangstellenden) hangen en discussieren over de onderwerpen. Sommigen noemen dit de "After party".
+
+Als een onderwerp besproken is, streep je ze door. Als alle onderwerpen behandeld zijn, verlaat dan de ruimte zodat ze klaar is voor de volgende Dagelijkse Standup.
+
+Voor sommige teams is dit een geweldige manier om de Dagelijkse Standup meeting korter en concreter te houden.
