@@ -1,0 +1,20 @@
+Sean
+
+Stand-ups on time
++ high score
+
+Do you think you are getting better at starting your Daily Stand-ups on time? Why not measure it?
+
+Every day you start the Daily Stand-up on time, increase your “Daily started on time”-score. If you start it late, reset it to zero. Next to the counter, write your high-score so far. If you can, think of a fun reward for the team every time you break your own record.
+
+Other examples of counter and high scores (aka “chains”) are “We fixed more bugs today than were reported”, “Days with zero bug reports”, and “Urgent lane empty by the end of the day”.
+
+
+Standups op Tijd
++ Topscore
+
+Denk je dat je er beter in wordt om je Dagelijkse Standup op tijd te starten? Waarom zou je het niet meten?
+
+Iedere dag als de Dagelijkse Standup op tijd begint, verhoog je de "Dagelijkse Gestart Op Tijd"-score. Als je te laat start, zet je deze terug op nul. Schrijf naast deze tellerje hoogste score tot dusver. Denk als je kunt aan een beloning voor het team iedere keer als het record wordt verbroken.
+
+Andere voorbeelden van tellers en topscores (alias "ketens") zijn "We hebben vandaag meer bugs verholpen dan gerapporteerd", "Dagen met nul bug-rapportages" en "Urgente gevallen wachtrij leeg aan het einde van de dag".
