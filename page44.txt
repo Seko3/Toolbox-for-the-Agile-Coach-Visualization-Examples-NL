@@ -1,3 +1,5 @@
+Sean
+
 Late = Cake
 
 Draw a circle. Slice it up in 8 slices. This represents a cake. When someone arrives late to the Daily Stand-up write that person’s name in one of the slices.
@@ -8,3 +10,16 @@ When the cake circle is full, count the “winner”. The winner bakes a cake th
 
 An alternative for this is to write a list of the team members. When someone is late, he or she gets a tick. Three or more ticks mean cake.
  If you don’t like cake, or this policy makes the team fat, try another policy.
+ 
+ 
+ Te Laat = Taart
+ 
+ Teken een cirkel. Snij het in 8 delen. Dit vertegenwoordigd een taart. Wanneer iemand te laat komt bijd e Dagelijkse Standup, schrijf je de naam van die persoon op een stuk taart.
+ 
+ Wanneer de cirkel is gevuld met namen, bereken je de "winnaar". Deze winnaar bakt een taart waar het team de volgende dag plezier aan beleeft.
+ 
+ -
+ 
+ Een alternatief hiervoor is om een lijst te maken met de namen van de teamleden. Wanneer iemand te laat is, turf je dit bij diens naam.Drie turfjes of meer betekent taart.
+ Als je niet van taart houdt, of het team wordt te dik door deze maatregel, probeer een andere maatregel.
+ 
