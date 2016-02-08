@@ -1,0 +1,18 @@
+Sean
+
+Daily Stand-up Routine
+
+Instead of just jumping into doing the Scrum default “round”, make the routine of the Daily Stand-up a conscious design by writing it down. Once written down it becomes easier to have constructive discussions on how to improve it.
+
+It also makes it easier to rotate the responsibility of facilitating the Daily Stand-up.
+
+The same approach could also of course be applied to other kinds of meetings such as Sprint Planning, Backlog Grooming, Sprint Review, etc.
+
+
+Dagelijkse Standup Routine
+
+In plaats van gewoon direct de standaard Scrum "ronde" te doen, maak van de Dagelijkse Standup een bewust ontwerp door het op te schrijven. Eenmaal beschreven wordt het makkelijker om constructieve discussies te hebben over verbetering.
+
+Het maakt het ook makkelijker om de rol van facilitator van de Dagelijkse Standup te rouleren.
+
+Dezelfde aanpak kan uiteraard ook worden toegepast op andere meetings, zoals de Sprint Planning, de Backlog Opschoning, Sprint Review, etc.
