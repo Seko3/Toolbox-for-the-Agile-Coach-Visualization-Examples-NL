@@ -1,3 +1,5 @@
+Sean
+
 Task size < 1 day
 
 When tasking (i.e. breaking down the work that needs to be performed to complete a User Story) don’t stop splitting the tasks until each task can be completed within a day.
@@ -7,3 +9,14 @@ This policy makes it easier to see progress and bottlenecks. It also triggers de
 Furthermore, if you use Dotting, you know there is something fishy going on if a task starts collecting dots since no single task should have more than one dot.
 
 If you use a Sprint Burndown, you can instead of summarizing hours summarize the number of tasks. Much faster!
+
+
+Taak grootte < 1 dag
+
+Bij taakverdeling (d.w.z. in stukken verdelen van het werk welke uitgevoerd moet worden om een User Story te completeren), stop niet met het in stukken verdelen totdat iedere taak binnen een dag kan worden uitgevoerd.
+
+Deze maatregel maakt het eenvoudiger om de voortgang te zien, en belemmeringen. Het zorgt ook voor diepere gezamenlijke discussies gedurende de planning sessies.
+
+Daarnaast, als je Dotting gebruikt als markering, weet je wanneer iets niet klopt zodra bij een taak meerdere stippen verschijnen, aangezien iedere taak slechts één stip zou moeten hebben.
+
+Als je Sprint Burndown gebruikt, kun je in plaats van uren het aantal stippen bijhouden. Werkt veel sneller!
