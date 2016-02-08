@@ -1,0 +1,18 @@
+Sean
+
+Story Point Ruler
+
+To get better at doing relative Story Point estimation as a team, create a Story Point Ruler. 
+
+By the end of every sprint (for example during the Sprint Review meeting) ask yourselves, for every story completed: In hindsight, given what we know now - how many Story Points should this user story have been? Put the User Story on that place on the ruler.
+
+When it’s time to estimate new stories (with for example Poker Planning), simply compare that story to the stories already estimated on the ruler. As time goes by, clean the ruler so that it doesn’t become too crowded. Keep the good examples and remove similar User Stories.
+
+
+Verhaalpunten Lineaal
+
+Om als team beter te worden in het inschatten van Verhaalpunten, maak een Verhaalpunten Lineaal.
+
+Tegen het einde van iedere sprint (bijvoorbeeld tijdens de Sprint Review Meeting) vraag je dan voor alle afgeronde Verhalen af: terugkijkend, wetende wat we nu weten - hoeveel Verhaalpunten had dit Verhaal moeten hebben? Plaats het Verhaal op die plaats van de Lineaal.
+
+Wanneer het tijd is om nieuwe Verhalen in te schatten (bijvoorbeeld bij Poker Planning), kun je dat Verhaal simpelweg vergelijken met Verhalen op de lineaal die eerder zijn ingeschat. Naarmate de tijd verstrijkt, ruim de lineaal op, zodat ze niet te vol raakt. Behoudt de goede voorbeelden en verwijder vergelijkbare Verhalen.
