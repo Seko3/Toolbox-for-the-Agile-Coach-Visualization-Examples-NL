@@ -1,0 +1,18 @@
+Sean
+
+Limit by Space
+
+If your team does Kanban or some version of Scrumban and have a hard time honoring the WIP Limits you have set for yourselves, perhaps this approach can help you.
+
+Instead of writing the WIP Limits, adjust the spaces. Make the boxes and areas containing the Post-its so small that you can’t physically fit more Post-its than the space allows without breaking the WIP Limit.
+ 
+This approach also makes it bluntly obvious if the WIP Limit has been broken somewhere, just look for Post-its stacked upon each other.
+
+
+Beperking van de Ruimte
+
+Als je team Kanban doet of een variant van Scrumban en het kost moeite om de WIP limieten die je hebt gesteld te handhaven, misschien kan deze aanpak je dan helpen.
+
+In plaats van het beschrijven van de WIP-limiet, pas de ruimte aan. Maak de vakjes en velden voor de Post-its zo klein dat er fysiek niet méér Post-its passen dan de ruimte toelaat zonder het verbreken van de WIP-limiet.
+
+Deze werkwijze maakt het overduidelijk als de WIP-limiet ergens wordt doorbroken, kijk simpelweg naar Post-its die op elkaar zijn gestapeld.
