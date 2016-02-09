@@ -1,0 +1,20 @@
+Buizen Stemmen
+
+Het laten vallen van ballen in buizen is een leuke manier om data te visualiseren. De buizen kunnen wordne gelabeled. De kleuren van de ballen kunnen gebruikt worden voor een verschillende betekenis.
+
+De mogelijkheden zijn uiteraard onbegrensd, maar hier zijn enkele voorbeelden:
+Statistisch: waar komen fouten vandaan? Als een fout eenmaal is hersteld, laat een bal vallen in de corresponderende buis.
+Data: Iedere buis is een Sprint. Iedere bal een Verhaalpunt.
+Poll: Iedere buis vertegenwoordigt een vraag. Groene ballen voor ja, rode ballen voor nee.
+Stemmen: "Refactor" - welke class is het volgende doel voor de volgende hack aanval?
+
+
+Tube Poll
+
+Dropping balls in tubes is a fun way to visualize data. The tubes can be labeled. The colors of the balls could be used to have different meaning.
+
+The possibilities are of course endless, but here are some examples:
+Statistics: Where do bugs originate from? Once a bug has been fixed, drop a ball in corresponding tube.
+Data: Each tube is a sprint. Each ball a Story Point.
+Poll: Each tube represents a question. Green balls for yes, red balls for no.
+Vote: “Refactor” - what class should be the target for the next hack attack?
