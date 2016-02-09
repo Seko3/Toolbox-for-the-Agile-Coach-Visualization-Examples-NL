@@ -1,0 +1,14 @@
+Sean
+
+Exploratory Testing Wheel
+
+If you vacuum a huge floor with an automatic semi-dumb vacuum robot, at least at some point in time every area of the floor has been vacuumed. You could use the same approach to testing.
+
+Choose a couple of Exploratory Test Charters. Place them around a wheel. Make it a policy that each member runs one of those charters each week. When done, the charter Post-it is put back on the wheel and the checkbox is crossed. When the wheel is done, replace some of the charters and restart the wheel.
+
+
+Verkennend Test Rad
+
+Als je een grote vloer stofzuigt met een semi-domme robot-stofzuiger, dan wordt op een zeker moment tenminste ieder deel van de vloer meegenomen. Je zou dezelfde aanpak kunnen gebruiken voor testen.
+
+Kies een aantal Verkennende Test Onderwerpen. Plaats ze op een rad of cirkel. Voer de regel in dat ieder teamlid één keer per week een onderwerp doorloopt. Wanneer dit gedaan is wordt de Post-it van het onderwerp teruggeplaatst op het Rad en afgevinkt. Wanneer het rad gereed is, vervang dan een aantal hoofdstukken en start het rad opnieuw.
