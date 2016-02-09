@@ -1,0 +1,16 @@
+Willekeurigheid Kaart
+
+Deze visualisatie is een manier van bijhoduen hoe vaak samenwering plaatsvindt, en wie koppeld met wie. Het adresseert hetzelfde gedrag als de Koppel Programmeer Matrix.
+
+Wanneer je hebt gekoppeld met iemand, teken een lijn tussen jezelf en die persoon in de Willekeurigheid Kaart.
+
+Na een paar dagen wordne patronen zchtbaar. Hoe vaak koppelen we eigenlijk? Wie koppelt met wie? Willen we bewust sommige patronen doorbreken om beter te zijn in koppels met anderen?
+
+
+Promiscuous Map
+
+This visualization is a way of tracking how often pairing happens, and who pairs with whom. It addresses the same behavior as the Pair Programming Matrix.
+
+Whenever you’ve paired with someone, draw a line between yourself and that other person in the Promiscuous Map.
+
+After a couple of days, patterns will probably emerge. How much do we actually pair? Who pairs with whom? Do we want to consciously break some patterns and be better at pairing with different people?
