@@ -1,0 +1,18 @@
+Sean
+
+Ready for demo
+
+Teams that Kanban should also of course demo as well. If your team hasn’t scheduled a recurring demo, perhaps a Ready for demo area can help.
+
+Once a story is done and ready for demo, move it to an empty slot in the first row. When the first row is full, an invitation for a demo is sent out. When the demo is held, all ready-for-demo stories are shown, after which the area is cleared.
+
+Note: This example has been mentioned earlier (see Lane Priority), but is presented here in more detail.
+
+
+Klaar voor de Demo
+
+Teams die Kanban gebruiken moeten uiteraard ook een Demo doen. Als je team geen herhalende Demo heeft gepland, misschien kan dan een Klaar voor Demo ruimte hulp bieden.
+
+Als ee Verhaal gereed is en klaar is voor de Demo, verplaats het naar een leeg slot op de eerste wachtrij. Wanneer de eerste rij vol is kunnen de uitnodigingen voor de Demo worden verzonden. Wanneer de Demo wordt gehouden worden alle gereed-voor-demo Verhalen getoond, waarna de eerste wachtrij weer wordt leeggemaakt.
+
+Nota: dit voorbeeld is al eerder vermeld (zie <Lane Priority <- check against translated part>), maar wordt hier in meer detail gepresenteerd.

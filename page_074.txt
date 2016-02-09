@@ -1,0 +1,14 @@
+Sean
+
+Review Queue
+
+One HR team I was working with had a long list of wiki pages describing different policies and guidelines. They suspected a lot of them needed to be revisited and updated. So, we created a Policy Review Queue. Every week one policy was reviewed and updated. Some updates needed approval from someone else so they went through a “To be approved” box. Once done, the ticket moved to the end of the queue. The order and content of the queue was rearranged when needed.
+
+The same approach could of course be applied to technical documentation, website content, FAQs, manuals, etc.
+
+
+Beoordeling Wachtrij
+
+Een HR-team waar ik mee samen werkte had een lange lijst wiki pagina's met verschillende beleids- en richtlijnen. Ze vermoedden dat veel ervan moet worden aangepast en bijgewerkt. Dus hebben we een Beoordeling Wachtrij geaakt. Iedere week werd een beleidslijn gecontroleerd en  bijgewerkt. Sommige aanpassingen hadden goedkeuring nodig van iemand, dus werden ze in een "Goedkeuring wachtrij" geplaatst. Eenmaal gereed werd het ticket verplaatst naar het einde van de wachtrij. De volgorde en inhoud van de wachtrij werd aangepast wanneer dat nodig was.
+
+Dezelfde aanpak zou uiteraard kunnen worden gebruikt bij technische documentatie, website inhoud, FAQ's, handleidingen etc.

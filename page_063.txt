@@ -1,0 +1,14 @@
+Sean
+
+Improvement Theme
+
+Improvement Theme is a tool in the form of a poster that works as a conveyor belt for continuous improvements once the Retrospective is over. Describe the current situation in the red section. Then define how the situation would look like if it was awesome in the green section. Then ask yourselves, six weeks from now; what realistic and concrete goals can we set that will bring us closer to our “Definition of Awesome?” Then identify the first three smallest steps you can take to get closer to these goals. 
+
+Follow up on the steps during the Daily Stand-up and add new ones as tasks are completed. When the six weeks have passed, evaluate the poster and create a new “Next Target Condition”.
+
+
+Verbeter Thema
+
+Verbeter Thema is een hulpmiddel in de vorm van een poster welke werkt als een transportband voor voortdurende verbeteringen zodra de Retrospective gereed is. Beschrijf de huidige situatie in de rode sectie. Beschrijf vervolgens de situatie zoals ze geweldig zou zijn in het groene vlak. Vraag jezelf vervolgens af, zes weken vanaf nu; welke realistische en concrete doelen kunnen we bepalen die ons dichterbij brengen bij onze "Definitie van Geweldig"? Identificeer vervolgens de eerste drie kleinste stappen die je kunt nemen om dichter bij deze doelen te komen.
+
+Doe opvolging van deze stappen tijdens de Dagelijkse Standup en voeg nieuwe toe als taken zijn voltooid. Wanneer de zes weken zijn verstreken, evalueer de poster, en maak een nieuwe "Volgende Doel Conditie".

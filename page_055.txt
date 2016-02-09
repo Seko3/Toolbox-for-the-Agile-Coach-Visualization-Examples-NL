@@ -1,0 +1,18 @@
+Sean
+
+Task Estimation Boxes
+
+One simple approach to learn if things take longer than expected is to estimate the work for a task with boxes. Two boxes could for example mean a full day’s work.
+
+During the Daily Stand-up you cross the boxes as you work on the task. Continue to cross even when there are no more boxes. This technique will make it easy to see when something turned out to be harder than initially estimated, which in turn should trigger a discussion on how to help out.
+
+The estimation could take place during the sprint planning or when the task is moved from “Planned” to “Doing”.
+
+
+Taak Inschatting Markering
+
+Een simpele manier om te leren of werkzaamheden langer duren dan verwacht is om de inschatting van een taak te markeren met checkboxen. Twee checkboxen zouden bijvoorbeeld een volle werkdag kunnen zijn.
+
+Tijdens de Dagelijkse Standup markeer je een checkbox van de taak terwijl je eraan werkt. Blijf markeren, ook als er geen vrije checkboxen meer zijn. Deze techniek maakt het inzichtelijker om te zien of een taak moeilijker was dan aanvankelijk ingeschat, en dat inzicht zal op zijn beurt een discussie aanwakkeren hoe het kan worden verholpen.
+
+De inschatting kan plaatsvinden tijdens de Sprint Planning of wanneer het werk wordt verplaatst van "Gepland" naar "Actief".

@@ -1,0 +1,18 @@
+Sean
+
+Team Mood Barometer
+
+Team Mood Barometer is a board with a rope on which you position your clothespin with your name. The position of your clothespin reflects your current mood.
+
+You update it whenever you want to. Once a week or maybe several times a day.
+
+If you as a team want to be better at sharing your mood, and how you are feeling, this could be a simple tool to trigger dialog. If someone is far down, you probably want to know if there is something you can do to help that person. It also provides some kind of overview how the team in general is feeling.
+
+
+Team Stemming Barometer
+
+De Team Stemming Barometer is een bord met een touw waarop je een wasknijper hangt met je naam. De positie van de wasknijper laat zien in welke stemming je bent.
+
+Je wijzigt het wanneer je maar wilt. Eén keer per week of misschien zelfs meerdere keren per dag.
+
+Als je als team beter je stemming wilt delen, en hoe je je voelt, kan dit een simpele manier zijn op een gesprek te starten. Als iemand een lage stemming heeft wil je waarschijnlijk weten of er iets is waar je die persoon mee kunt helpen. Het geeft je ook een soort inzicht in de algehele stemming van het team.
